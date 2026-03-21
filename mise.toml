@@ -1,0 +1,6 @@
+[tools]
+go = "1.26"
+
+[tasks.run]
+run = "go run ."
+description = "Run the script"
