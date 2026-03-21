@@ -17,3 +17,5 @@ If you find a bug or small improvement, feel free to send a PR, but don't expect
 Here'a an image of a nice looking plant!
 
 ![](static/succulent.jpg)
+
+Photo by [Kaylin Pacheco](https://unsplash.com/@kaylinp)
