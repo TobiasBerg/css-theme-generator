@@ -1,4 +1,4 @@
-# Theme Generator
+# CSS Theme Generator
 
 Generate a CSS theme for you site, by taking in 4 colors and using color math to expand to adjesent colors.
 
